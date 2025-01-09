@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @ydatNBA
-- 👀 I’m interested in cyber security and data analytics
-- 🌱 I’m currently learning Java and R
-- 💞️ I’m looking to collaborate on Java
+
 
 
 <!---
